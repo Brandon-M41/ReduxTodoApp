@@ -1,0 +1,10 @@
+Repository URL: https://github.com/Brandon-M41/ReduxTodoApp
+Student Name: Brandon Daniel Mair
+Student ID: N01505851
+Lab: CPAN 213 - Lab 6
+Date: October 30, 2025
+Redux Features Implemented:
+- Todo slice with addTodo, toggleTodo, deleteTodo, setFilter actions
+- Store configuration with Redux Toolkit
+- Connected TodoListScreen component using useSelector and useDispatch
+- Filter functionality (all, active, completed)
